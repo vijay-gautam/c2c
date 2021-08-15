@@ -36,7 +36,7 @@ function ClipboardCopy({ copyText }) {
         <button onClick={handleCopyClick}>
           <span>{isCopied ? 'Copied!' : 'Copy'}</span>
         </button>
-        <span>{isCopied ? "🎉PAISA DE🎉" : ""}</span>
+        <span className="pd">{isCopied ? "🎉PAISA DE🎉" : ""}</span>
       </div>
     );
   }

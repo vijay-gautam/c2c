@@ -8,17 +8,21 @@ width: 100vw;
   align-items: center;
 }
 
+.pd{
+  font-size: 20px;
+}
+
 input {
   height: 5vh;
   width: 20vw;
-  margin-right: 2vw;
+  margin-bottom: 4vw;
 }
 
 button, button::after {
   width: 100px;
   height: 50px;
   font-size: 20px;
-  margin-right: 4vw;
+  margin-bottom: 4vw;
   /* font-family: 'Bebas Neue', cursive; */
   background: linear-gradient(45deg, transparent 5%, #FF013C 5%);
   border: 0;
@@ -29,6 +33,8 @@ button, button::after {
   outline: transparent;
   position: relative;
 }
+
+
 
 button::after {
   --slice-0: inset(50% 50% 50% 50%);
