@@ -2,7 +2,7 @@
 ### PS :
 
 
-This is a short project I made based on a conversation with my friend @Meghdut-Mandal. 
+This is a short project I made based on a conversation with my friend [@Meghdut-Mandal](https://github.com/Meghdut-Mandal). 
 ![Bet Image](https://github.com/vijay-gautam/c2c/blob/main/bet.png?raw=true)
 
 sry non hindi readers.
